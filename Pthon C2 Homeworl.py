@@ -1,0 +1,5 @@
+type("toy")
+type(7)
+type(7.5)
+Value=input("Please Enter value- ")
+print("Value Type Is ",type(Value))
